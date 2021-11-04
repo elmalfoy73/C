@@ -32,4 +32,5 @@ int main() {
     printf("Not enought toner: %u\n", reader.myPrinter.notEnoughtToner);
     printf("OPCdrum break: %u\n", reader.myPrinter.OPCdrumBreak);
     printf("No papper: %u\n", reader.myPrinter.noPapper);
+    return 0;
 }
