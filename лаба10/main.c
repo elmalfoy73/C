@@ -41,8 +41,3 @@ int main()
     printf("Сумма цифр = %d\n", digitsSum(n));
     return 0;
 }
-
-
-
-
-
